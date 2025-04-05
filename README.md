@@ -7,7 +7,7 @@ These are built to experiment, learn, and generate unique transactions as part o
 
 | Contract        | Description                   | Explorer Link |
 |----------------|-------------------------------|----------------|
-| MessageDropper | Drop message on-chain        | [View]((https://testnet.monadexplorer.com/address/0x6c2F9cC7B00861aC4Cc865938B867A8f1419c383)) |
+| MessageDropper | Drop message on-chain        | [View](https://testnet.monadexplorer.com/address/0x6c2F9cC7B00861aC4Cc865938B867A8f1419c383) |
 
 ## 📄 Usage
 All contracts are written in Solidity (`^0.8.26`). You can:
