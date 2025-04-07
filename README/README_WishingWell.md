@@ -80,7 +80,7 @@ Provide a wish message and amount:
 This grants the wish and transfers the WMON to the grantor.
 
 5. 📬 ** click on 'getRecentUngrantedWishes' **
-This lsist recent 20 ungranted wishes : adress , message , donated wmon.
+get : adress , message , donated wmon of ther wisher
 
 
 ---
