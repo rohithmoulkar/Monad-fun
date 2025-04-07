@@ -13,7 +13,7 @@ A fun and interactive smart contract where users can make wishes by donating WMO
 
 ### 🚀 Live on Monad Testnet
 - 🔗 **WishingWell Contract (Verified)**: [View on Monad Explorer](https://testnet.monadexplorer.com/address/0xYourWishingWellContractAddress?tab=Contract)
-- 🪙 **WMON Token Contract**: [WMON Contract Page](https://testnet.monadexplorer.com/token/0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701?tab=Contract)
+- 🪙 **MessageDropper Contract (verified)**: [View on Monad Explorer](https://testnet.monadexplorer.com/address/0x6c2F9cC7B00861aC4Cc865938B867A8f1419c383?tab=Contract)
 
 
 ### 🙌 Thanks for Checking This Out!
