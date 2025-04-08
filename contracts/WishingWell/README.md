@@ -39,12 +39,7 @@ Grants the wish and receives the donated WMON tokens of specific adress.
 ### 📬 getRecentUngrantedWishes
 This read-only function returns a list of up to **20 most recent wishes** that are still **ungranted**. It helps users find wishes they can fulfill.
 
-
-
-
-
-
-
+---
 
 ### 📌 Example Flow
 
@@ -79,8 +74,8 @@ Provide a wish message and amount:
 4. 🧙‍♂️ **Someone else can call `grantWish(wishId)`**  
 This grants the wish and transfers the WMON to the grantor.
 
-5. 📬 ** click on 'getRecentUngrantedWishes' **
-get : adress , message , donated wmon of ther wisher
+5. 📬 ** click on `getRecentUngrantedWishes`**  
+This get : adress , message , donated wmon of ther wisher
 
 
 ---
