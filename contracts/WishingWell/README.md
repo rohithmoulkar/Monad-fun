@@ -36,7 +36,7 @@ Make a wish by submitting a custom message and donating WMON.
 Grants the wish and receives the donated WMON tokens of specific adress.  
 > Grants are only possible on unfulfilled wishes.
 
-### 📬 getRecentUngrantedWishes
+#### 📬 getRecentUngrantedWishes
 This read-only function returns a list of up to **20 most recent wishes** that are still **ungranted**. It helps users find wishes they can fulfill.
 
 ---
