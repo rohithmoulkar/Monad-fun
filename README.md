@@ -11,8 +11,8 @@ A collection of simple smart contracts deployed on the Monad Testnet for experim
 
 #### 🌐 Table of Contents
 
-- [WishingWell Contract](https://testnet.monadexplorer.com/address/0xYourWishingWellContractAddress?tab=Contract)
-- [MessageDropper Contract](https://testnet.monadexplorer.com/address/0x6c2F9cC7B00861aC4Cc865938B867A8f1419c383?tab=Contract)
+- View on Monad Explorer - [WishingWell Contract](https://testnet.monadexplorer.com/address/0xYourWishingWellContractAddress?tab=Contract)
+- View on Monad Explorer - [MessageDropper Contract](https://testnet.monadexplorer.com/address/0x6c2F9cC7B00861aC4Cc865938B867A8f1419c383?tab=Contract)
 
 #### 🧙 WishingWell Contract
 
