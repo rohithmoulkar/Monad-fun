@@ -95,6 +95,6 @@ PRs are welcome! 🎉
 ### 🧙 About WishingWell
 
 > "Where every gm can become a granted wish."  
-Part of a series of simple, testnet-ready smart contracts deployed for fun, learning, and public engagement with Monad.
+Part of a series of simple, testnet-ready smart contracts deployed for fun, learning, and public engagement with Monad & Love.
 
 ---
