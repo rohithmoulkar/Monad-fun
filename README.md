@@ -5,18 +5,27 @@
 
 ---
 
-### 🧙 WishingWell Smart Contract (Monad Testnet)
+### 🚀 Live on Monad Testnet
+
+A collection of simple smart contracts deployed on the Monad Testnet for experimentation and learning.
+
+#### 🌐 Table of Contents
+
+- [WishingWell Contract](https://testnet.monadexplorer.com/address/0xYourWishingWellContractAddress?tab=Contract)
+- [MessageDropper Contract](https://testnet.monadexplorer.com/address/0x6c2F9cC7B00861aC4Cc865938B867A8f1419c383?tab=Contract)
+
+#### 🧙 WishingWell Contract
 
 A fun and interactive smart contract where users can make wishes by donating WMON tokens, and others can grant those wishes. Granters receive the donated tokens as a reward!
 
----
+🔗[Detailed Guide](README/README_WishingWell.md)
 
-### 🚀 Live on Monad Testnet
-- 🔗 **WishingWell Contract (Verified)**: [View on Monad Explorer](https://testnet.monadexplorer.com/address/0xYourWishingWellContractAddress?tab=Contract)
-        -----> Navigate to README/README_WishingWell.md & check detailed guid on how to interact with contract
+#### 👋 MessageDropper Contract
 
-- 🪙 **MessageDropper Contract (verified)**: [View on Monad Explorer](https://testnet.monadexplorer.com/address/0x6c2F9cC7B00861aC4Cc865938B867A8f1419c383?tab=Contract)
-        ----->Navigate to README/README_MessageDropper.md & check detailed guid on how to interact with contract
+A simple contract allowing users to drop messages on-chain for others to read.
+
+🔗[Detailed Guide](README/README_MessageDropper.md)
+
 
 ### 🙌 Thanks for Checking This Out!
 
