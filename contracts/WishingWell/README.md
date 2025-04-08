@@ -54,7 +54,7 @@ This read-only function returns a list of up to **20 most recent wishes** that a
 2. ✍️ **Use the `approve` Function**  
    In the `Write Contract` tab of the WMON token, set the **spender** as the WishingWell contract address:
 
-   spender: 0x9fD095d0090C80b4499558695766a590D9413A92
+   spender: 0x9Fd095d0090C80b4949558695766a590D9413A92
    amount: WMON	Wei (to use in function)
 
 | WMON         | Wei (to use in functions)        |
