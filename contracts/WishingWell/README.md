@@ -72,7 +72,7 @@ This read-only function returns a list of up to **20 most recent wishes** that a
 
    Then click `Write` and confirm the transaction in MetaMask.
 
-3. 🌠 **Call `makeWish()`** on WishingWell  
+3. 🌠 **Call `makeWish()`** on [WishingWell Contract](https://testnet.monadexplorer.com/address/0x9Fd095d0090C80b4949558695766a590D9413A92?tab=Contract)
 Provide a wish message and amount:
 
 
