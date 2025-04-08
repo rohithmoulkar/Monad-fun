@@ -24,7 +24,7 @@ A fun and interactive smart contract where users can make wishes by donating WMO
 
 A simple contract allowing users to drop messages on-chain for others to read.
 
-🔗[Detailed Guide](README/README_MessageDropper.md)
+🔗[Detailed Guide](contracts/MessageDropper/README.md)
 
 
 ### 🙌 Thanks for Checking This Out!
