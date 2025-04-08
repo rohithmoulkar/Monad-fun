@@ -11,7 +11,7 @@ These contracts are built to encourage interaction, learning, and unique transac
 
 | Contract      | Description                          | Explorer Link |
 |--------------|--------------------------------------|---------------|
-| WishingWell  | Make wishes & grant them for WMON    | [View](https://testnet.monadexplorer.com/address/0x9fD095d0090C80b4499558695766a590D9413A92?tab=Contract) |
+| WishingWell  | Make wishes & grant them for WMON    | [View](https://testnet.monadexplorer.com/address/0x9Fd095d0090C80b4949558695766a590D9413A92?tab=Contract) |
 | WMON Token   | ERC20 token used for wishes/grants   | [View](https://testnet.monadexplorer.com/token/0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701?tab=Contract) |
 
 ---
