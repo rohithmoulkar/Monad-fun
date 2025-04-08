@@ -31,7 +31,7 @@ contract WishingWell {
 
     /// @notice Make a wish by donating WMON
     function makeWish(string calldata message, uint256 wmonAmount) external {
-        require(bytes(message).length > 0, "Message required");
+        require(bytes(message).length > 0, "Message required!");
         require(wishes[msg.sender].wisher == address(0), "Wish already made");
 
         require(wmon.transferFrom(msg.sender, address(this), wmonAmount), "WMON transfer failed");
