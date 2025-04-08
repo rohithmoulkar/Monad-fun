@@ -18,7 +18,7 @@ A collection of simple smart contracts deployed on the Monad Testnet for experim
 
 A fun and interactive smart contract where users can make wishes by donating WMON tokens, and others can grant those wishes. Granters receive the donated tokens as a reward!
 
-🔗[Detailed Guide](README/README_WishingWell.md)
+🔗[Detailed Guide](contracts/WishingWell/README.md)
 
 #### 👋 MessageDropper Contract
 
